@@ -1,7 +1,7 @@
 {
   "app-id": "eu.ngdevelopment.tsukitag",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "21.08",
+  "runtime-version": "25.08",
   "sdk": "org.freedesktop.Sdk",
   "command": "TsukiTag",
   "finish-args": [
